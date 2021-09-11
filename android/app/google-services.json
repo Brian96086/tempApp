@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669309219210",
+    "firebase_url": "https://ldrfirebase-d6ffe.firebaseio.com",
+    "project_id": "ldrfirebase-d6ffe",
+    "storage_bucket": "ldrfirebase-d6ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669309219210:android:c3d769da449e0f15619873",
+        "android_client_info": {
+          "package_name": "com.company.LDR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669309219210-lqpg8fpifdf6gc73c6i16hqi07u8t5mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAOydBm87KWwr28mAY8XepgxDtyAQQyiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669309219210-lqpg8fpifdf6gc73c6i16hqi07u8t5mi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669309219210-3tsk1sp9sf3niaq4m6p27mljuuq4qnd8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.LDR"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

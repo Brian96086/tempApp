@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/drawable/notification_bg.xml"
+    }
+]

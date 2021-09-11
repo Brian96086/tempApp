@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

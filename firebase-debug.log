@@ -1,0 +1,25 @@
+[debug] [2020-09-30T09:21:40.805Z] ----------------------------------------------------------------------
+[debug] [2020-09-30T09:21:40.806Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2020-09-30T09:21:40.807Z] CLI Version:   8.11.2
+[debug] [2020-09-30T09:21:40.807Z] Platform:      darwin
+[debug] [2020-09-30T09:21:40.807Z] Node Version:  v12.18.4
+[debug] [2020-09-30T09:21:40.813Z] Time:          Wed Sep 30 2020 17:21:40 GMT+0800 (Taipei Standard Time)
+[debug] [2020-09-30T09:21:40.813Z] ----------------------------------------------------------------------
+[debug] [2020-09-30T09:21:40.813Z] 
+[debug] [2020-09-30T09:21:40.819Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-09-30T09:21:40.820Z] > authorizing via signed-in user
+[debug] [2020-09-30T09:21:40.820Z] [iam] checking project signuppage-4967d for permissions ["firebase.projects.get"]
+[debug] [2020-09-30T09:21:40.823Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/signuppage-4967d:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2020-09-30T09:21:41.767Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Wed, 30 Sep 2020 09:21:42 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=787","alt-svc":"h3-Q050=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-09-30T09:21:41.769Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/signuppage-4967d  
+ 
+[debug] [2020-09-30T09:21:42.166Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Wed, 30 Sep 2020 09:21:42 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-Q050=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] === Serving from '/Users/brian96086/Documents/SignUpPage'...
+[info] 
+[debug] [2020-09-30T09:21:42.171Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/signuppage-4967d/webApps/-/config  
+ 
+[debug] [2020-09-30T09:21:43.190Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Wed, 30 Sep 2020 09:21:43 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-Q050=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  hosting: Serving hosting files from: public {"metadata":{"emulator":{"name":"hosting"},"message":"Serving hosting files from: \u001b[1mpublic\u001b[22m"}}
+[info] ✔  hosting: Local server: http://localhost:5000 {"metadata":{"emulator":{"name":"hosting"},"message":"Local server: \u001b[4m\u001b[1mhttp://localhost:5000\u001b[22m\u001b[24m"}}

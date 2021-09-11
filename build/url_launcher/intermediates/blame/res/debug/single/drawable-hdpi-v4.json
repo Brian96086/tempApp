@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/brian96086/Documents/SignUpPage 2/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/brian96086/.gradle/caches/transforms-2/files-2.1/727546e628695c3dae91a25b7b077157/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

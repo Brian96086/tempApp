@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "e6e878bdd2078bc31b9702f06a3fe6d3"
+build_time: [1604769581, 254593000]
+inputs:
+  "/Users/brian96086/Documents/SignUpPage/ios/Runner/AppDelegate.swift": [1592441484, 0]

@@ -1,0 +1,4 @@
+# Referenced at /Users/brian96086/Documents/SignUpPage 2/build/app/intermediates/merged_manifests/debug/AndroidManifest.xml:33
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/brian96086/Documents/SignUpPage 2/build/app/intermediates/merged_manifests/debug/AndroidManifest.xml:33
+-keep class io.flutter.app.FlutterApplication { <init>(); }
